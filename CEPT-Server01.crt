@@ -1,0 +1,98 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2971 (0xb9b)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=IN, ST=HR, L=Gurgaon, O=Impartus, OU=LectureCapture, CN=Impartus CA/name=EasyRSA/emailAddress=support@impartus.com
+        Validity
+            Not Before: Jul 31 12:41:05 2023 GMT
+            Not After : Jul 28 12:41:05 2033 GMT
+        Subject: C=IN, ST=HR, L=Gurgaon, O=Impartus, OU=LectureCapture, CN=CEPT-Server01/name=EasyRSA/emailAddress=support@impartus.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e9:aa:32:19:49:1a:2a:54:9f:85:aa:0d:a5:1a:
+                    95:72:aa:8d:40:d1:d4:b6:a6:d5:e7:c9:7b:ee:8b:
+                    e5:fb:25:88:5b:f9:19:28:5c:c0:bb:a5:b7:4d:b8:
+                    bd:42:88:1b:e3:28:eb:fe:03:ce:f0:18:ff:e5:ee:
+                    89:ba:96:9b:ce:44:f3:44:3d:f5:7f:ba:57:33:bc:
+                    8d:ae:cd:09:dc:ea:ed:45:f4:5c:ec:08:1c:dc:56:
+                    6f:25:78:2e:8c:42:bd:14:54:24:cf:38:43:74:ba:
+                    39:ec:d4:e1:f5:9a:57:1b:70:e0:55:7a:f9:f4:00:
+                    c9:a2:f7:15:4d:c6:32:c5:a7:08:0a:d2:3e:89:91:
+                    a7:3c:1f:dc:3f:53:a5:c8:0e:63:e0:e4:cc:58:ff:
+                    cd:f3:58:7c:a1:6c:97:fa:68:d7:95:2d:96:41:20:
+                    7b:04:b7:02:50:2f:9c:02:0c:a4:0e:12:99:1d:f1:
+                    6e:42:d7:90:d7:a1:f1:6c:40:b8:03:2b:5e:e6:e4:
+                    45:60:cb:9b:40:d0:be:8a:c1:db:91:7e:e5:d6:13:
+                    4d:a4:95:39:90:ea:f7:ff:ad:ba:5e:fe:44:c4:68:
+                    c2:4c:e5:6e:24:ad:ae:dc:43:1e:18:75:25:0e:5a:
+                    de:52:73:1a:2e:84:88:5d:be:9e:5d:3b:7a:9b:d1:
+                    4f:c3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                C2:0E:2B:BA:46:73:04:FE:91:C4:A7:23:93:45:80:35:20:3C:60:8B
+            X509v3 Authority Key Identifier: 
+                keyid:75:80:CF:05:33:EF:F6:34:8C:F2:A4:33:6B:32:51:A1:2D:19:C4:65
+                DirName:/C=IN/ST=HR/L=Gurgaon/O=Impartus/OU=LectureCapture/CN=Impartus CA/name=EasyRSA/emailAddress=support@impartus.com
+                serial:96:F8:40:6E:9F:36:93:2F
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:CEPT-Server01
+    Signature Algorithm: sha256WithRSAEncryption
+         a9:d1:fb:16:1c:9a:47:c4:e4:12:c4:26:fc:b2:73:49:41:d6:
+         c4:f1:13:c8:9c:62:dc:ed:08:01:ac:80:6b:d7:72:44:c5:91:
+         5d:39:d7:be:79:44:13:c4:89:dc:88:43:55:22:37:cb:b1:30:
+         cb:fa:3e:a3:6d:52:fe:c6:ea:80:af:1e:95:73:cd:13:25:d0:
+         f8:89:d4:b3:61:40:e4:6a:71:74:de:b2:b0:6d:3f:ce:9f:74:
+         cf:04:0d:91:3c:fb:85:94:c5:51:67:60:5e:18:4e:4b:1e:2c:
+         f1:56:bc:41:1e:88:58:f5:77:ce:42:67:42:77:69:e6:1e:70:
+         fe:2a:f1:15:11:f8:5f:96:63:ee:ac:df:f9:cc:ec:d2:23:9a:
+         af:ac:87:a8:b8:55:d2:1e:56:3a:1d:39:01:36:f0:0f:a2:07:
+         a4:3f:cd:48:03:49:1b:a5:9f:67:eb:aa:74:ff:67:21:e7:4e:
+         bf:51:2b:e0:52:b7:5d:6e:91:9a:c3:d7:60:9b:cd:93:c1:af:
+         25:41:f1:a3:ce:8d:f7:33:ff:ef:bd:03:51:73:12:05:03:6f:
+         8b:c7:78:84:8b:a0:73:90:5f:7a:e1:c4:ec:a7:2d:9e:26:74:
+         d1:eb:3e:06:94:59:3e:c7:d8:e2:bf:3b:a4:7e:1d:54:17:e7:
+         25:15:4e:9d
+-----BEGIN CERTIFICATE-----
+MIIFQjCCBCqgAwIBAgICC5swDQYJKoZIhvcNAQELBQAwgaUxCzAJBgNVBAYTAklO
+MQswCQYDVQQIEwJIUjEQMA4GA1UEBxMHR3VyZ2FvbjERMA8GA1UEChMISW1wYXJ0
+dXMxFzAVBgNVBAsTDkxlY3R1cmVDYXB0dXJlMRQwEgYDVQQDEwtJbXBhcnR1cyBD
+QTEQMA4GA1UEKRMHRWFzeVJTQTEjMCEGCSqGSIb3DQEJARYUc3VwcG9ydEBpbXBh
+cnR1cy5jb20wHhcNMjMwNzMxMTI0MTA1WhcNMzMwNzI4MTI0MTA1WjCBpzELMAkG
+A1UEBhMCSU4xCzAJBgNVBAgTAkhSMRAwDgYDVQQHEwdHdXJnYW9uMREwDwYDVQQK
+EwhJbXBhcnR1czEXMBUGA1UECxMOTGVjdHVyZUNhcHR1cmUxFjAUBgNVBAMTDUNF
+UFQtU2VydmVyMDExEDAOBgNVBCkTB0Vhc3lSU0ExIzAhBgkqhkiG9w0BCQEWFHN1
+cHBvcnRAaW1wYXJ0dXMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA6aoyGUkaKlSfhaoNpRqVcqqNQNHUtqbV58l77ovl+yWIW/kZKFzAu6W3Tbi9
+Qogb4yjr/gPO8Bj/5e6JupabzkTzRD31f7pXM7yNrs0J3OrtRfRc7Agc3FZvJXgu
+jEK9FFQkzzhDdLo57NTh9ZpXG3DgVXr59ADJovcVTcYyxacICtI+iZGnPB/cP1Ol
+yA5j4OTMWP/N81h8oWyX+mjXlS2WQSB7BLcCUC+cAgykDhKZHfFuQteQ16HxbEC4
+Ayte5uRFYMubQNC+isHbkX7l1hNNpJU5kOr3/626Xv5ExGjCTOVuJK2u3EMeGHUl
+DlreUnMaLoSIXb6eXTt6m9FPwwIDAQABo4IBdjCCAXIwCQYDVR0TBAIwADAtBglg
+hkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1Ud
+DgQWBBTCDiu6RnME/pHEpyOTRYA1IDxgizCB2gYDVR0jBIHSMIHPgBR1gM8FM+/2
+NIzypDNrMlGhLRnEZaGBq6SBqDCBpTELMAkGA1UEBhMCSU4xCzAJBgNVBAgTAkhS
+MRAwDgYDVQQHEwdHdXJnYW9uMREwDwYDVQQKEwhJbXBhcnR1czEXMBUGA1UECxMO
+TGVjdHVyZUNhcHR1cmUxFDASBgNVBAMTC0ltcGFydHVzIENBMRAwDgYDVQQpEwdF
+YXN5UlNBMSMwIQYJKoZIhvcNAQkBFhRzdXBwb3J0QGltcGFydHVzLmNvbYIJAJb4
+QG6fNpMvMBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIHgDAYBgNVHREE
+ETAPgg1DRVBULVNlcnZlcjAxMA0GCSqGSIb3DQEBCwUAA4IBAQCp0fsWHJpHxOQS
+xCb8snNJQdbE8RPInGLc7QgBrIBr13JExZFdOde+eUQTxInciENVIjfLsTDL+j6j
+bVL+xuqArx6Vc80TJdD4idSzYUDkanF03rKwbT/On3TPBA2RPPuFlMVRZ2BeGE5L
+HizxVrxBHohY9XfOQmdCd2nmHnD+KvEVEfhflmPurN/5zOzSI5qvrIeouFXSHlY6
+HTkBNvAPogekP81IA0kbpZ9n66p0/2ch506/USvgUrddbpGaw9dgm82Twa8lQfGj
+zo33M//vvQNRcxIFA2+Lx3iEi6BzkF964cTspy2eJnTR6z4GlFk+x9jivzukfh1U
+F+clFU6d
+-----END CERTIFICATE-----
